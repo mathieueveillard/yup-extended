@@ -1,5 +1,5 @@
 {
-  "name": "js-kata-starter",
+  "name": "yup-extended",
   "version": "1.0.0",
   "description": "Starter project for kata (Node, TypeScript, Jest)",
   "main": "index.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mathieueveillard/js-kata-starter.git"
+    "url": "git+https://github.com/mathieueveillard/yup-extended.git"
   },
   "keywords": [
     "starter",
@@ -35,7 +35,10 @@
   "author": "Mathieu Eveillard",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mathieueveillard/js-kata-starter/issues"
+    "url": "https://github.com/mathieueveillard/yup-extended/issues"
   },
-  "homepage": "https://github.com/mathieueveillard/js-kata-starter#readme"
+  "homepage": "https://github.com/mathieueveillard/yup-extended#readme",
+  "dependencies": {
+    "yup": "^0.32.11"
+  }
 }
